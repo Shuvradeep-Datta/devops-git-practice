@@ -9,3 +9,6 @@
 6. git switch branch
 7. git merge branch
 8. git branch -d branch
+9. git checkout
+10. git pull 
+11.git push
